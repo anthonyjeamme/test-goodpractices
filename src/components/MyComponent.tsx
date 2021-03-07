@@ -3,7 +3,7 @@ import React from 'react'
 const MyComponent = ({ data }) => {
 	if (!data) return null
 
-	const a = 
+	const a = ''
 
 	return <div className="MyComponent">Ton nom : {data.name}</div>
 }
