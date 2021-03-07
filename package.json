@@ -55,10 +55,5 @@
     "**/*.+(js|json|css|html|md)": [
       "prettier"
     ]
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "lint-staged"
-    }
   }
 }
