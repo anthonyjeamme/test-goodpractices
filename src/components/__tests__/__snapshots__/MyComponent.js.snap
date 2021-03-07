@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header renders correctly 1`] = `
+<div
+  className="MyComponent"
+>
+  Ton nom : 
+  tony
+</div>
+`;
+
+exports[`Header renders correctly 2`] = `null`;
+
+exports[`Header renders correctly A 1`] = `
+<div
+  className="MyComponent"
+>
+  Ton nom : 
+  tony
+</div>
+`;
+
+exports[`Header renders correctly B 1`] = `null`;
